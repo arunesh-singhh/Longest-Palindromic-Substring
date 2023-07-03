@@ -42,4 +42,3 @@ class Solution:
                 start = l
 
         return s[start: start + size]
-

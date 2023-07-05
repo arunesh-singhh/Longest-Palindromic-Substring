@@ -21,7 +21,6 @@ class Soluion:
                     reslen = r - l + 1
                 l -= 1
                 r += 1
-    
         return res
 
 # approach-2
